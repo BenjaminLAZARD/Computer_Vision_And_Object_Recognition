@@ -8,7 +8,7 @@ The topics covered are the following ones:
 
 1. Lab1: Introduction to Local Invariant Features using [Scale Invariant Feature Transform: SIFT](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform) points of interests, image matching using [Bags of Visual Words: BOVW](https://towardsdatascience.com/bag-of-visual-words-in-a-nutshell-9ceea97ce0fb). Given a picture of a portion of a painting and a database of scans of paintings, identify the original picture.
 
-2. Lab2: Introduction to [Convolutional Neural Network](http://cs231n.github.io/convolutional-networks/): [convolution operation](https://en.wikipedia.org/wiki/Convolution), backpropagation of the gradient, pooling, multiple layers, dropouts, non-linear activation functions, training on [CIFAR 10](https://en.wikipedia.org/wiki/CIFAR-10) and [MNIST](http://yann.lecun.com/exdb/mnist/).
+2. Lab2: Introduction to [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/): [convolution operation](https://en.wikipedia.org/wiki/Convolution), backpropagation of the gradient (impact of learning rate, initialization, number of hidden units) on a simple 1-layer MLP, custom CNN built with [PyTorch](https://pytorch.org/) (non-linear activation functions, pooling, training on [CIFAR 10](https://en.wikipedia.org/wiki/CIFAR-10)).
 
 3. Final project: coming soon  ![wink_smiley](http://cdn.onlinewebfonts.com/svg/img_431499.png)
 
