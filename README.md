@@ -10,6 +10,6 @@ The topics covered are the following ones:
 
 2. Lab2: Introduction to [Convolutional Neural Networks](http://cs231n.github.io/convolutional-networks/): [convolution operation](https://en.wikipedia.org/wiki/Convolution), backpropagation of the gradient (impact of learning rate, initialization, number of hidden units) on a simple 1-layer MLP, custom CNN built with [PyTorch](https://pytorch.org/) (non-linear activation functions, pooling, training on [CIFAR 10](https://en.wikipedia.org/wiki/CIFAR-10)).
 
-3. Final project: coming soon  ![wink_smiley](http://cdn.onlinewebfonts.com/svg/img_431499.png)
+3. Final project: Investigating some properties of [CycleGANs](https://junyanz.github.io/CycleGAN/). How to transfer high level properties from a set of images to another one? Example: convert any image of a landscape taken in the summer to its winter counterpart. In this (very) short study, I investigate a tensorflow implementation of the cycleGAN: I try a few datasets, tweak the loss function, and change the complexity of the original implementation.
 
 You're a recruiter and you like it ? [Hire me !](https://www.linkedin.com/in/benjaminlazard/)
